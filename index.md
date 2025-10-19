@@ -1,5 +1,5 @@
 # SOS! UKRAINE NEEDS HELP 
-![Обложка](Images/Cover_Project)
+![Обложка](Images/Cover_Project.jpg)
 **CONTENTS/SOMMAIRE/ЗМІСТ/ОГЛАВЛЕНИЕ**
 
 
