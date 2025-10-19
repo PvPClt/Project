@@ -80,11 +80,12 @@ Examples of brilliant political satire and exposure of the Putin regime. Read an
 
 ### Альбом сатирических миниатюр «Палата №666»
 
-[читать на сайте](Album_Ru.md) [скачать PDF](https://pvpclt.github.io/project/releases/tag/Album_Ru-v1.0.0)
+[читать на сайте](Album_Ru.md)| [Скачать PDF](https://github.com/pvpclt/Project/releases/tag/
+
 
 ### Сатирическая мини-пьеса «Встающая с колен»
 
-[читать на сайте](Play_Ru.md) [скачать PDF](https://pvpclt.github.io/project/releases/tag/Play_Ru-v1.0.0)
+[читать на сайте](Play_Ru.md)|[скачать PDF](https://github.com/pvpclt/Project/releases/tag/Play_Ru-v1.0.0
 
 ### Анатомия путинских „традиционных ценностей“, статья
 
