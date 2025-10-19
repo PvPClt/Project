@@ -85,7 +85,7 @@ Examples of brilliant political satire and exposure of the Putin regime. Read an
 
 ### Сатирическая мини-пьеса «Встающая с колен»
 
-[читать на сайте](Play_Ru.md)|[скачать PDF](https://github.com/pvpclt/Project/releases/tag/Play_Ru-v1.0.0
+[читать на сайте](Play_Ru.md)|[скачать PDF](https://github.com/pvpclt/Project/releases/tag/Play_Ru-v1.0.0)
 
 ### Анатомия путинских „традиционных ценностей“, статья
 
