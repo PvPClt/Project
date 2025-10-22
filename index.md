@@ -44,7 +44,7 @@ Examples of brilliant political satire and exposure of the Putin regime. Read an
 
 ### Anatomy of Putin's "Traditional Values", article
 
-[read on the website](values_en.md) [download PDF](https://pvpclt.github.io/project/releases/tag/Values_En-v1.0.0)
+[read on the website](values_en.md) | [download PDF](https://github.com/pvpclt/project/releases/tag/Values_En-v1.0.0)
 
 
 # 🇺🇦 УКРАЇНСЬКА
