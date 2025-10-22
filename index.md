@@ -66,7 +66,7 @@ Examples of brilliant political satire and exposure of the Putin regime. Read an
 
 ### Анатомія путінських „традиційних цінностей“, стаття
 
-[читати на сайті](values_ua.md) [завантажити PDF](https://github.com/pvpclt/project/releases/tag/Values_Ua-v1.0.0)
+[читати на сайті](values_ua.md) | [завантажити PDF](https://github.com/pvpclt/project/releases/tag/Values_Ua-v1.0.0)
 
 
 # 🇷🇺 РУССКИЙ 
