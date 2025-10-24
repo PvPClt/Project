@@ -2,6 +2,15 @@
 
 # 🇫🇷 ALBUM DE MINIATURES SATIRIQUES « CHAMBRE N°666 »
 
+**ATTENTION !**
+**NOTE IMPORTANTE !**
+
+Ce projet a été créé dans un contexte de persécution numérique. Les services secrets russes mènent des cyberattaques systématiques visant à déformer et à substituer la traduction correcte des mots et des expressions, cherchant à discréditer les textes et à en altérer le sens.
+Si vous êtes un locuteur natif et que vous remarquez dans les textes des mots et des expressions absurdes, illogiques, dénués de sens, "maladroits" ou grammaticalement incorrects, veuillez signaler l'erreur spécifique en utilisant les contacts ci-dessous (proposez votre version et expliquez pourquoi elle est meilleure). Votre aide pour garantir l'intégrité linguistique et la justesse des traductions est inestimable dans ce combat pour la vérité.
+Contacts:
+bbidyaga@protonmail.com | 
+[Написать в Signal](https://signal.me/#eu/iAMBIvJmOAjoVIE8JlkLyPckG75BEyLAnt3zv7U2XWrZtjnVQf9CMLHrow7DtBSk)
+
 ![](Images/Fr_Album_Cover.jpg)
 
 ### INTRODUCTION
