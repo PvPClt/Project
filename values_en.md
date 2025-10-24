@@ -4,6 +4,15 @@
 
 # 🇬🇧 THE ANATOMY OF PUTIN'S "TRADITIONAL VALUES"
 
+**ATTENTION!**  
+**IMPORTANT NOTE!**
+
+This project was created under conditions of digital persecution. Russian special services carry out systematic cyber attacks aimed at distorting and substituting correct translations of words and expressions, seeking to discredit the texts and corrupt their meaning.
+If you are a native speaker and notice absurd, illogical, nonsensical, "clumsy," or grammatically incorrect words and expressions in the texts, please report the specific error using the contacts below (suggest your version and explain why it is better). Your assistance in ensuring linguistic integrity and the adequacy of translations is invaluable in this struggle for truth.
+Contacts:
+bbidyaga@protonmail.com | 
+[Написать в Signal](https://signal.me/#eu/iAMBIvJmOAjoVIE8JlkLyPckG75BEyLAnt3zv7U2XWrZtjnVQf9CMLHrow7DtBSk)
+
 ![](Images/Cover_Article.jpg)
 
 On November 9, 2022, Russian President Vladimir Putin signed Decree No. 809 "On the Foundations of State Policy for the Preservation and Strengthening of Traditional Russian Spiritual and Moral Values" (hereinafter referred to as the Putin Decree or the Decree). Source: http://www.kremlin.ru/acts/bank/48502  
