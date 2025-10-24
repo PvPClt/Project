@@ -60,7 +60,7 @@ Examples of brilliant political satire and exposure of the Putin regime. Read an
 
 ### Альбом сатиричних мініатюр «Палата №666»
 
-[читати на сайті](album_ua.md) I [завантажити PDF](https://github.com/pvpclt/project/releases/tag/Album_Ua-v1.0.0)
+[читати на сайті](album_ua.md) I [завантажити PDF]
 
 ### Сатирична мініп’єса «Встаюча з колін»
 
