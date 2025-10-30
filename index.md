@@ -16,15 +16,14 @@ Des exemples de satire politique brillante et de révélation du régime poutini
 
 ### Album de miniatures satiriques « Chambre n°666 »
 
-[lire sur le site](album_fr.md) I [télécharger le PDF](https://github.com/pvpclt/project/releases/tag/Album_Fr-v1.0.0)
+[lire sur le site](album_fr.md) I [télécharger le PDF]
 
 ### Mini-pièce satirique « Se relevant de ses genoux »
 
-[lire sur le site](play_fr.md) | [télécharger le PDF](https://github.com/pvpclt/project/releases/tag/Play_Fr-v1.0.0)
-
+[lire sur le site](play_fr.md) | [télécharger le PDF]
 ### Anatomie des « valeurs traditionnelles » poutiniennes, article
 
-[lire sur le site](values_fr.md) I [télécharger le PDF](https://github.com/pvpclt/project/releases/tag/Values_Fr-v1.0.0)
+[lire sur le site](values_fr.md) I [télécharger le PDF]
 
 
 # 🇬🇧 ENGLISH 
@@ -38,16 +37,14 @@ Examples of brilliant political satire and exposure of the Putin regime. Read an
 
 ### Album of satirical miniatures "Ward №666"
 
-[read on the website](album_en.md) I [download PDF](https://github.com/pvpclt/project/releases/tag/Album_En-v1.0.0)
-
+[read on the website](album_en.md) I [download PDF]
 ### Satirical mini-play "Rising Off Her Knees"
 
-[read on the website](play_en.md) | [download PDF](https://github.com/pvpclt/project/releases/tag/Play_En-v1.0.0)
+[read on the website](play_en.md) | [download PDF]
 
 ### Anatomy of Putin's "Traditional Values", article
 
-[read on the website](values_en.md) | [download PDF](https://github.com/pvpclt/project/releases/tag/Values_En-v1.0.0)
-
+[read on the website](values_en.md) | [download PDF]
 
 # 🇺🇦 УКРАЇНСЬКА
 
@@ -64,11 +61,11 @@ Examples of brilliant political satire and exposure of the Putin regime. Read an
 
 ### Сатирична мініп’єса «Встаюча з колін»
 
-[читати на сайті](play_ua.md) I [завантажити PDF](https://github.com/pvpclt/project/releases/tag/Play_Ua-v1.0.0)
+[читати на сайті](play_ua.md) I [завантажити PDF]
 
 ### Анатомія путінських „традиційних цінностей“, стаття
 
-[читати на сайті](values_ua.md) | [завантажити PDF](https://github.com/pvpclt/project/releases/tag/Values_Ua-v1.0.0)
+[читати на сайті](values_ua.md) | [завантажити PDF]
 
 
 # 🇷🇺 РУССКИЙ 
